@@ -1,0 +1,16 @@
+# Fichiers générés par Maven et Java
+/build/
+/target/
+*.class
+*.log
+
+# Fichiers temporaires et système
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
+
+# Fichiers contenant des secrets
+.env
+.env.*
+!.env.example
